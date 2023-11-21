@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicForm", "DynamicForm\DynamicForm.csproj", "{FAC3189E-F146-4731-A73A-ED75442AFFFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicForm.Data", "DynamicForm.Data\DynamicForm.Data.csproj", "{FDED6C19-49EE-4916-89F5-A36210483D3E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicForm.Service", "DynamicForm.Service\DynamicForm.Service.csproj", "{CA671071-FF32-4B14-8616-86D69C6A2918}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicForm.ViewModel", "DynamicForm.ViewModel\DynamicForm.ViewModel.csproj", "{150AA3B9-512C-444C-9BCD-63036F010B55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC3189E-F146-4731-A73A-ED75442AFFFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAC3189E-F146-4731-A73A-ED75442AFFFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAC3189E-F146-4731-A73A-ED75442AFFFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAC3189E-F146-4731-A73A-ED75442AFFFF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDED6C19-49EE-4916-89F5-A36210483D3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDED6C19-49EE-4916-89F5-A36210483D3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDED6C19-49EE-4916-89F5-A36210483D3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDED6C19-49EE-4916-89F5-A36210483D3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA671071-FF32-4B14-8616-86D69C6A2918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA671071-FF32-4B14-8616-86D69C6A2918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA671071-FF32-4B14-8616-86D69C6A2918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA671071-FF32-4B14-8616-86D69C6A2918}.Release|Any CPU.Build.0 = Release|Any CPU
+		{150AA3B9-512C-444C-9BCD-63036F010B55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{150AA3B9-512C-444C-9BCD-63036F010B55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{150AA3B9-512C-444C-9BCD-63036F010B55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{150AA3B9-512C-444C-9BCD-63036F010B55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
